@@ -14,8 +14,8 @@ import subprocess
 
 
 #Telegram token
-token = os.getenv('TELEGRAM_TOKEN')
-bot_number = os.getenv('NUM')
+token = os.getenv('6102051751:AAHkvJp58CK1xpiveTrQ1WwWYEOkTlYZQic')
+bot_number = os.getenv('2')
 updater = Updater(token,use_context=True)
 
 
